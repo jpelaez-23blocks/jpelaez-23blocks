@@ -26,6 +26,7 @@
 ## What I'm Doing
 
 - **Building [23blocks](https://23blocks.com)** — Backend as a Service with 15+ production-ready API blocks (auth, users, files, CRM, multi-tenant)
+- **Running [3Metas](https://3metas.com)** — AI agents consulting, startup investment, and cloud infrastructure
 - **Running AI agents in production** — Multiple Claude Code instances orchestrated via AI Maestro, talking to users through Slack, Discord, and Email
 - **Shipping fast** — Full services in days using agentic engineering workflows
 - **Training for Ironman** — 6 states done (FL, CO, CA, NY, TX, OR), next up AZ and UT
