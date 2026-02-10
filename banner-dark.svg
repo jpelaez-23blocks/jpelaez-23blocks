@@ -1,0 +1,40 @@
+<svg width="894" height="200" viewBox="0 0 894 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="redline" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#dc2626;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#dc2626;stop-opacity:1"/>
+      <stop offset="80%" style="stop-color:#ef4444;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="894" height="200" fill="url(#bg)" rx="8"/>
+
+  <!-- Subtle dot grid -->
+  <g opacity="0.06" fill="#ffffff">
+    <circle cx="40" cy="40" r="1"/><circle cx="80" cy="40" r="1"/><circle cx="120" cy="40" r="1"/><circle cx="160" cy="40" r="1"/><circle cx="200" cy="40" r="1"/><circle cx="240" cy="40" r="1"/><circle cx="280" cy="40" r="1"/><circle cx="320" cy="40" r="1"/><circle cx="360" cy="40" r="1"/><circle cx="400" cy="40" r="1"/><circle cx="440" cy="40" r="1"/><circle cx="480" cy="40" r="1"/><circle cx="520" cy="40" r="1"/><circle cx="560" cy="40" r="1"/><circle cx="600" cy="40" r="1"/><circle cx="640" cy="40" r="1"/><circle cx="680" cy="40" r="1"/><circle cx="720" cy="40" r="1"/><circle cx="760" cy="40" r="1"/><circle cx="800" cy="40" r="1"/><circle cx="840" cy="40" r="1"/>
+    <circle cx="40" cy="80" r="1"/><circle cx="80" cy="80" r="1"/><circle cx="120" cy="80" r="1"/><circle cx="160" cy="80" r="1"/><circle cx="200" cy="80" r="1"/><circle cx="240" cy="80" r="1"/><circle cx="280" cy="80" r="1"/><circle cx="320" cy="80" r="1"/><circle cx="360" cy="80" r="1"/><circle cx="400" cy="80" r="1"/><circle cx="440" cy="80" r="1"/><circle cx="480" cy="80" r="1"/><circle cx="520" cy="80" r="1"/><circle cx="560" cy="80" r="1"/><circle cx="600" cy="80" r="1"/><circle cx="640" cy="80" r="1"/><circle cx="680" cy="80" r="1"/><circle cx="720" cy="80" r="1"/><circle cx="760" cy="80" r="1"/><circle cx="800" cy="80" r="1"/><circle cx="840" cy="80" r="1"/>
+    <circle cx="40" cy="120" r="1"/><circle cx="80" cy="120" r="1"/><circle cx="120" cy="120" r="1"/><circle cx="160" cy="120" r="1"/><circle cx="200" cy="120" r="1"/><circle cx="240" cy="120" r="1"/><circle cx="280" cy="120" r="1"/><circle cx="320" cy="120" r="1"/><circle cx="360" cy="120" r="1"/><circle cx="400" cy="120" r="1"/><circle cx="440" cy="120" r="1"/><circle cx="480" cy="120" r="1"/><circle cx="520" cy="120" r="1"/><circle cx="560" cy="120" r="1"/><circle cx="600" cy="120" r="1"/><circle cx="640" cy="120" r="1"/><circle cx="680" cy="120" r="1"/><circle cx="720" cy="120" r="1"/><circle cx="760" cy="120" r="1"/><circle cx="800" cy="120" r="1"/><circle cx="840" cy="120" r="1"/>
+    <circle cx="40" cy="160" r="1"/><circle cx="80" cy="160" r="1"/><circle cx="120" cy="160" r="1"/><circle cx="160" cy="160" r="1"/><circle cx="200" cy="160" r="1"/><circle cx="240" cy="160" r="1"/><circle cx="280" cy="160" r="1"/><circle cx="320" cy="160" r="1"/><circle cx="360" cy="160" r="1"/><circle cx="400" cy="160" r="1"/><circle cx="440" cy="160" r="1"/><circle cx="480" cy="160" r="1"/><circle cx="520" cy="160" r="1"/><circle cx="560" cy="160" r="1"/><circle cx="600" cy="160" r="1"/><circle cx="640" cy="160" r="1"/><circle cx="680" cy="160" r="1"/><circle cx="720" cy="160" r="1"/><circle cx="760" cy="160" r="1"/><circle cx="800" cy="160" r="1"/><circle cx="840" cy="160" r="1"/>
+  </g>
+
+  <!-- Name -->
+  <text x="447" y="72" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="42" font-weight="800" fill="#ffffff" letter-spacing="-0.5">Juan Pelaez</text>
+
+  <!-- Red accent line -->
+  <line x1="150" y1="92" x2="744" y2="92" stroke="url(#redline)" stroke-width="2"/>
+
+  <!-- Tagline -->
+  <text x="447" y="125" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="17" fill="#8b949e">CTO &amp; Founder at</text>
+  <text x="447" y="125" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="17" fill="#8b949e">
+    <tspan fill="#8b949e">CTO &amp; Founder at </tspan>
+    <tspan fill="#dc2626" font-weight="600">23blocks</tspan>
+  </text>
+
+  <!-- Sub-tagline -->
+  <text x="447" y="155" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="14" fill="#6e7681">Building backends and AI agents. Boulder, CO.</text>
+</svg>
