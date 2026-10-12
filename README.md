@@ -26,10 +26,10 @@
 
 **Open protocols for agents** ([agentmessaging](https://github.com/agentmessaging) org)
 
-- **[AMP](https://agentmessaging.org)** - Agent Messaging Protocol: open standard for secure, signed agent-to-agent messaging
-- **[AID](https://agentids.org)** - Agent Identity: agent authentication with Ed25519 keys and OAuth 2.0 token exchange
-- **[AAP](https://agentactions.org)** - Agent Actions Protocol: structured UI-to-agent interactions
-- **[AFP](https://github.com/agentmessaging/agent-files)** - Agent Files Protocol: share files between agents and people across hosts on S3-compatible storage (v0.1 draft)
+- **AMP**: Agent Messaging Protocol, the open standard for secure, signed agent-to-agent messaging. Site: **[agentmessaging.org](https://agentmessaging.org)** · [spec on GitHub](https://github.com/agentmessaging/protocol)
+- **AID**: Agent Identity, authentication for agents with Ed25519 keys and OAuth 2.0 token exchange. Site: **[agentids.org](https://agentids.org)** · [spec on GitHub](https://github.com/agentmessaging/agent-identity)
+- **AAP**: Agent Actions Protocol, structured UI-to-agent interactions. Site: **[agentactions.org](https://agentactions.org)** · [spec on GitHub](https://github.com/agentmessaging/agent-actions)
+- **AFP**: Agent Files Protocol, sharing files between agents and people across hosts on S3-compatible storage (v0.1 draft). [Spec on GitHub](https://github.com/agentmessaging/agent-files), website coming
 
 **Skills for Claude Code**
 
@@ -52,9 +52,15 @@
 - **Shipping fast** — Full services in days using agentic engineering workflows
 - **Training for Ironman** — 6 states done (FL, CO, CA, NY, TX, OR), next up AZ and UT
 
+## Speaking
+
+- 🎤 **[Rocky Mountain AI Interest Group (RMAIIG)](https://www.rmaiig.org)**, Boulder: *Hands-on Practical AI Tips*, "How I am using Claude Code to run a full org of AI agents"
+- 🎤 **RMAIIG, CU Boulder, October 13, 2026**: *AI Ghosts: Griefbots, Digital Twins, and the Question of Who Owns a Human Identity*. Working every day alongside more than 100 AI agents designed to operate as real members of the team, and what that does to people and teams
+
 ## Recognition
 
 - 🏆 **ChatGPT Hackathon Winner** (2024)
+- 🚀 **Techstars** (2024)
 - ☁️ **AWS MVP CTO Fellow** (2022)
 - 🏔️ **Boulder County Leadership Fellow** (2021)
 - 🚀 **Venture Deals** — Kauffman Fellows & Techstars (2021)
