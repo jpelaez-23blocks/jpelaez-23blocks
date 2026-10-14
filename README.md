@@ -54,8 +54,8 @@
 
 ## Speaking
 
-- 🎤 **[Rocky Mountain AI Interest Group (RMAIIG)](https://www.rmaiig.org)**, Boulder: *Hands-on Practical AI Tips*, "How I am using Claude Code to run a full org of AI agents"
-- 🎤 **RMAIIG, CU Boulder, October 13, 2026**: *AI Ghosts: Griefbots, Digital Twins, and the Question of Who Owns a Human Identity*. Working every day alongside more than 100 AI agents designed to operate as real members of the team, and what that does to people and teams
+- 🎤 **[RMAIIG](https://www.rmaiig.org), CU Boulder, October 13, 2026** — *AI and Ghosts*, one of four talks on "AI Ghosts: Griefbots, Digital Twins, and the Question of Who Owns a Human Identity". Fourteen months working every day alongside 160 AI agents that hold real roles in my companies, and what it did to the humans. [Deck and notes](https://github.com/23blocks-OS/lolabot/tree/main/presentations/2026-10-13-rmaiig-ai-and-ghosts)
+- 🎤 **[RMAIIG](https://www.rmaiig.org), Broomfield, September 17, 2026** — *Running a business on an AI Chief of Staff*, at *Hands-on Practical AI Tips*. How I run a full org of AI agents with Claude Code, and the three tips I would give anyone starting. [Deck and notes](https://github.com/23blocks-OS/lolabot/tree/main/presentations/2026-09-17-rmaiig)
 
 ## Recognition
 
