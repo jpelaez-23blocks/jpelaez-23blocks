@@ -19,17 +19,20 @@
 
 **AI Maestro and ecosystem**
 
-- 🎯 **[AI Maestro](https://github.com/23blocks-OS/ai-maestro)** - Dashboard and orchestrator for fleets of AI coding agents (Claude Code, Codex, Grok Build and others) running in tmux, on one machine or across hosts. Memory, skills, code graph, agent-to-agent messaging
+- 🎯 **[AI Maestro](https://github.com/23blocks-OS/ai-maestro)** - Dashboard and orchestrator for fleets of AI coding agents (Claude Code, Codex, Grok Build and others) running in tmux, on one machine or across hosts. Memory, skills, code graph, agent-to-agent messaging. Site: **[getaimaestro.com](https://getaimaestro.com)** · docs: **[aimaestro.sh](https://aimaestro.sh)**
 - 🔧 **[AI Maestro Plugins](https://github.com/23blocks-OS/ai-maestro-plugins)** - Plugin builder and the AI Maestro plugin for Claude Code: skills, messaging, identity
 - 🌐 **[AI Maestro Gateways](https://github.com/23blocks-OS/aimaestro-gateways)** - Connect AI agents to Discord, Slack, Email & WhatsApp with prompt injection defense and content security
+- 💬 **[AI Maestro Slack Bridge](https://github.com/23blocks-OS/aimaestro-slack-bridge)** - Connect Slack to your running Claude Code agents, with no extra API calls
 - 🤖 **[lolabot](https://github.com/23blocks-OS/lolabot)** - Personal assistant framework for Claude Code: email, semantic memory, tasks, content security. Standalone or on AI Maestro
+- 🏭 **[lolabot-factory](https://github.com/23blocks-OS/lolabot-factory)** - Pick a personality and skills, get an installable Claude Code plugin. Site: **[lolabots.com](https://lolabots.com)**
 
 **Open protocols for agents** ([agentmessaging](https://github.com/agentmessaging) org)
 
-- **AMP**: Agent Messaging Protocol, the open standard for secure, signed agent-to-agent messaging. Site: **[agentmessaging.org](https://agentmessaging.org)** · [spec on GitHub](https://github.com/agentmessaging/protocol)
-- **AID**: Agent Identity, authentication for agents with Ed25519 keys and OAuth 2.0 token exchange. Site: **[agentids.org](https://agentids.org)** · [spec on GitHub](https://github.com/agentmessaging/agent-identity)
+- **AMP**: Agent Messaging Protocol, the open standard for secure, signed agent-to-agent messaging. Site: **[agentmessaging.org](https://agentmessaging.org)** · [spec on GitHub](https://github.com/agentmessaging/protocol) · [Claude Code plugin](https://github.com/agentmessaging/claude-plugin)
+- **AID**: Agent Identity, authentication for agents with Ed25519 keys and OAuth 2.0 token exchange. Site: **[agentids.org](https://agentids.org)** · [spec on GitHub](https://github.com/agentmessaging/agent-identity) · [conformance suite](https://github.com/agentmessaging/aid-conformance)
 - **AAP**: Agent Actions Protocol, structured UI-to-agent interactions. Site: **[agentactions.org](https://agentactions.org)** · [spec on GitHub](https://github.com/agentmessaging/agent-actions)
-- **AFP**: Agent Files Protocol, sharing files between agents and people across hosts on S3-compatible storage (v0.1 draft). [Spec on GitHub](https://github.com/agentmessaging/agent-files), website coming
+- **AFP**: Agent Files Protocol, sharing files between agents and people across hosts on S3-compatible storage (v0.1 draft). Site: **[agentfiles.org](https://agentfiles.org)** · [spec on GitHub](https://github.com/agentmessaging/agent-files)
+- **ADP**: Agent Device Protocol, agents own and use real devices: signed, approved on the device, no cloud in the middle (MIT, v0.1.0, experimental). Site: **[agentdevices.org](https://agentdevices.org)** · [spec on GitHub](https://github.com/agentmessaging/agent-device-protocol)
 
 **Skills for Claude Code**
 
@@ -42,13 +45,14 @@
 
 - 📦 **[Frontend SDK](https://github.com/23blocks-OS/frontend-sdk)** - TypeScript SDK for 23blocks BaaS — React hooks + Angular services, 15+ API blocks wired up
 - 🏗️ **[App Templates](https://github.com/23blocks-OS/app-templates)** - Starter templates for Next.js, Angular & React Native with 23blocks
+- 🧩 **[AI Agents](https://github.com/23blocks-OS/ai-agents)** - Claude Code plugins for the 23blocks platform, one per block
 
 ## What I'm Doing
 
 - **Building [23blocks](https://23blocks.com)** — Backend as a Service with 15+ production-ready API blocks (auth, users, files, CRM, multi-tenant)
 - **Running [3Metas](https://3metas.com)** — AI agents consulting, startup investment, and cloud infrastructure
 - **Running AI agents in production** — Fleets of coding agents orchestrated via AI Maestro, talking to users through Slack, Discord, and Email
-- **Writing open protocols for agents** — messaging, identity, actions and files, so agents from different vendors can work together
+- **Writing open protocols for agents** — messaging, identity, actions, files and devices, so agents from different vendors can work together
 - **Shipping fast** — Full services in days using agentic engineering workflows
 - **Training for Ironman** — 6 states done (FL, CO, CA, NY, TX, OR), next up AZ and UT
 
@@ -70,7 +74,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Juan_Pelaez-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juancarlospelaez)
 [![23blocks](https://img.shields.io/badge/-23blocks.com-dc2626?style=flat-square&logoColor=white)](https://23blocks.com)
-[![AI Maestro](https://img.shields.io/badge/-AI_Maestro_Docs-3b82f6?style=flat-square&logoColor=white)](https://ai-maestro.23blocks.com)
+[![AI Maestro](https://img.shields.io/badge/-AI_Maestro_Docs-3b82f6?style=flat-square&logoColor=white)](https://aimaestro.sh)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jpelaez-23blocks)
 
 ---
