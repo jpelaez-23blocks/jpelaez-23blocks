@@ -51,6 +51,9 @@
 
 - **Building [23blocks](https://23blocks.com)** — Backend as a Service with 15+ production-ready API blocks (auth, users, files, CRM, multi-tenant)
 - **Running [3Metas](https://3metas.com)** — AI agents consulting, startup investment, and cloud infrastructure
+- **Building [2xAI Lab](https://24ailab.com)** — Where AI meets craft: technology with taste
+- **Building [FluidMind](https://fluidmind.ai)** — An AI lab building agent-native products and the infrastructure they run on
+- **Building [Operario](https://operario.tech)** — AI that operates the software you use every day (closed beta)
 - **Running AI agents in production** — Fleets of coding agents orchestrated via AI Maestro, talking to users through Slack, Discord, and Email
 - **Writing open protocols for agents** — messaging, identity, actions, files and devices, so agents from different vendors can work together
 - **Shipping fast** — Full services in days using agentic engineering workflows
